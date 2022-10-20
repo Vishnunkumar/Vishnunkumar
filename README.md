@@ -10,3 +10,4 @@ all the best in whatever you are pursuing :heart_eyes:.
 - [Blog in Medium](https://medium.com/@nkumarvishnu5)
 - [Spaces in :hugs: website](https://huggingface.co/vishnun)
 - As always connect with me on [twitter](https://twitter.com/vishnunkumar_), [linkedin](https://www.linkedin.com/in/vishnunkumar)
+- Holopin board  [![@vishnun3's Holopin board](https://holopin.me/vishnun3)](https://holopin.io/@vishnun3)
