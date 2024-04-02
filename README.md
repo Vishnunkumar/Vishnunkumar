@@ -15,6 +15,5 @@ Commendable knowledge in developing AI&ML solutions using open-sourced ML framew
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Vishnunkumar&theme=dark&hide_border=false)<br/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Vishnunkumar&icon=0&color=0)](https://visitcount.itsvg.in)
-
+[![](https://visitcount.itsvg.in/api?id=Vishnunkumar&label=Profile%20Views&color=8&icon=1&pretty=true)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
